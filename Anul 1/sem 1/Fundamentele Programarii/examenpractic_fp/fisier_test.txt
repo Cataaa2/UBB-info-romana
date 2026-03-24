@@ -1,0 +1,3 @@
+20.02,08:00,scoala,normal
+21.02,09:00,fotbal,extraordinar
+21.02,10:00,politica,normal

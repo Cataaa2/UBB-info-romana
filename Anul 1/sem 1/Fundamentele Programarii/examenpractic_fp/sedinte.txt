@@ -1,0 +1,8 @@
+20.02,08:00,scoala,normal
+05.02,09:30,fotbal,extraordinar
+05.02,10:15,volei,extraordinar
+06.02,11:00,politica,normal
+20.11,20:15,sport,normal
+20.03,09:11,laptopuri,extraordinar
+24.03,13:22,gaming,extraordinar
+25.03,16:00,facultate,normal
