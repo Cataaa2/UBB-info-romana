@@ -1,0 +1,2 @@
+class EroareService(Exception):
+    pass

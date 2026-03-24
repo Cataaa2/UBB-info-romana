@@ -1,0 +1,16 @@
+1,banane
+2,mere
+3,ciocolata
+4,jeleuri
+5,paine
+22,suc
+67,briose
+69,pizza congelata
+42,lasagna congelata
+11,hatz pizza
+12,lindor ciocolata
+666,fererro rocher
+55,faina
+10,oua
+87,pesmet
+49,cereale
