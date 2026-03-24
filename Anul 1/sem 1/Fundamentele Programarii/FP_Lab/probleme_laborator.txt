@@ -1,0 +1,5 @@
+1,1,catalog,10
+7,9,inchiriere carti,20
+6,9,firme,200
+2,3,tema,10
+3,6,biblioteca,18

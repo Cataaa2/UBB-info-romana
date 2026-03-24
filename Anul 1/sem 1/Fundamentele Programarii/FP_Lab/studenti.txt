@@ -1,0 +1,11 @@
+1,ion,10
+4,vadim,214
+2,georgel,215
+3,ionica,4
+10,marian,20
+5,ionica,10
+11,marian,2
+6,paul,213
+7,ana,211
+8,birila,212
+9,ana,215
