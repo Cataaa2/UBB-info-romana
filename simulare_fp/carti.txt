@@ -1,0 +1,12 @@
+A123,Liviu Rebreanu,Ion,10
+A124,Costache Negruzzi,Mara,20
+A125,Ion Creanga,Povesti,15
+A126,Mihai Eminescu,Lacul,12
+A127,Iacob,Razboiul,5
+A128,Mihai Eminescu,Scoala,4
+A129,Ion Creanga,Amintiri,13
+A130,Liviu Rebreanu,Apa,30
+A131,Ion Creanga,Ciresul,21
+A132,Iacob,Baltagul,32
+A133,Costache Negruzzi,Mireasa,8
+A134,Mihai Eminescu,Copacul,16
